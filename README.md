@@ -6,6 +6,16 @@ This repository is used only to publish Phosona Manager binary installers. Downl
 
 [中文说明](README_CN.md)
 
+## Screenshots
+
+### Download control center
+
+![Download control center](01.png)
+
+### Language selection
+
+![Language selection](02.png)
+
 ## Features
 
 - HTTP, HTTPS, and BitTorrent downloads
