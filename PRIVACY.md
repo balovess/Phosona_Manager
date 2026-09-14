@@ -1,6 +1,6 @@
 # Phosona Manager Privacy Policy
 
-**Effective date:** 2026-09-14  
+**Effective date:** 2026-09-14
 **Last updated:** 2026-09-14
 
 ## 1. Maintainer
