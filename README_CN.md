@@ -6,7 +6,7 @@ Phosona Manager 是一款跨平台桌面下载管理器。它使用 Electron 提
 
 [English](README.md)
 
-[隐私协议](PRIVACY.md)
+[Privacy Policy](PRIVACY.md)
 
 ## 界面截图
 
