@@ -6,6 +6,8 @@ This repository is used only to publish Phosona Manager binary installers. Downl
 
 [中文说明](README_CN.md)
 
+[Privacy Policy](PRIVACY.md)
+
 ## Screenshots
 
 > The screenshots below are for reference only and do not represent the final release UI. The interface may differ substantially in the official version.
